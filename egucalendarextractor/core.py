@@ -27,35 +27,36 @@ def extract_links_from_pdf(doc):
         text = page.get_text("dict")
 
         for link in links:
-            if link["uri"]:
-                # Find closest text to the link rectangle
-                rect = link["from"]
-                x0, y0, x1, y1 = rect
-                label = None
+            if "uri" in link.keys():
+                if link["uri"]:
+                    # Find closest text to the link rectangle
+                    rect = link["from"]
+                    x0, y0, x1, y1 = rect
+                    label = None
 
-                for block in text["blocks"]:
-                    if "lines" not in block:
-                        continue
-                    for line in block["lines"]:
-                        for span in line["spans"]:
-                            sx0, sy0, sx1, sy1 = span["bbox"]
-                            # Check for overlap with link rect
-                            if (
-                                sx0 >= x0 - 2
-                                and sx1 <= x1 + 2
-                                and sy0 >= y0 - 2
-                                and sy1 <= y1 + 2
-                            ):
-                                label = span["text"].strip()
+                    for block in text["blocks"]:
+                        if "lines" not in block:
+                            continue
+                        for line in block["lines"]:
+                            for span in line["spans"]:
+                                sx0, sy0, sx1, sy1 = span["bbox"]
+                                # Check for overlap with link rect
+                                if (
+                                    sx0 >= x0 - 2
+                                    and sx1 <= x1 + 2
+                                    and sy0 >= y0 - 2
+                                    and sy1 <= y1 + 2
+                                ):
+                                    label = span["text"].strip()
+                                    break
+                            if label:
                                 break
                         if label:
                             break
-                    if label:
-                        break
 
-                if label:
-                    link_map[label] = link["uri"]
-                    print(f"🔗 Found link for '{label}': {link['uri']}")
+                    if label:
+                        link_map[label] = link["uri"]
+                        # print(f"🔗 Found link for '{label}': {link['uri']}")
 
     return link_map
 
@@ -293,6 +294,11 @@ CATEGORIES:{event["category"]}
     return ics
 
 
+def fix_encoding(text):
+    for key, val in ENCODING_ISSUES_SUBS.items():  # fixing some encoding issues
+        text = text.replace(key, val)
+
+
 def write_ics(events, output_path):
     header = """BEGIN:VCALENDAR
 VERSION:2.0
@@ -303,6 +309,7 @@ X-WR-TIMEZONE:Europe/Vienna
 """
     footer = "END:VCALENDAR"
     content = header + "\n".join(format_event_ics(e) for e in events) + "\n" + footer
+    fix_encoding(content)
     with open(output_path, "w") as f:
         f.write(content)
     print(f"✅ ICS file written to: {output_path}")
@@ -343,8 +350,6 @@ def extract_events_from_pdf(pdf_input):
     link_map = extract_links_from_pdf(doc)
     #
     text = "\n".join(page.get_text() for page in doc)
-    for key, val in ENCODING_ISSUES_SUBS.items():  # fixing some encoding issues
-        text = text.replace(key, val)
     doc.close()
     individual = extract_individual_events(text, link_map)
     sessions = deduplicate_sessions(extract_session_blocks(text, link_map))
