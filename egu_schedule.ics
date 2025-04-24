@@ -1,0 +1,988 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference Schedule
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+UID:7b8b6e8e-9a0b-4331-b4c5-3fec70b5a757
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250428T121000
+DTEND;TZID=Europe/Vienna:20250428T122000
+SUMMARY:Pattern Formation of Rotating Magnetoconvection with Anisotropic Thermal Diffusivity Effect in the Earth's Outer Core 
+LOCATION:Room -2.92
+DESCRIPTION:Authors: Krishnendu Nayak, Hari Ponnamma Rani, Jaya Krishna Devanuri, Yadagiri Rameshwar, and Jozef Brestenský\nSession ID: EGU25-13974\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-13974
+CATEGORIES:Talk
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:72ad09c8-e5de-4c0a-8cca-272f7bf6fb49
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250428T140000
+DTEND;TZID=Europe/Vienna:20250428T154500
+SUMMARY:Runout Mechanism of Flow-like Landslides Based on Granular Flow Physics 
+LOCATION:vPoster spot 3 | vP3.6
+DESCRIPTION:Authors: Xiong Tang, Siming He, Lei Zhu, Huanhuan Zhang, Michel Jaboyedoff, and Zenan Huo\nSession ID: EGU25-8078\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-8078
+CATEGORIES:Poster
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+UID:230fd415-893a-48ae-a3f8-e50153dd95eb
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250428T161500
+DTEND;TZID=Europe/Vienna:20250428T180000
+SUMMARY:Manganese extraction from pyrometallurgy slags mediated by endemic microbial communities 
+LOCATION:Hall X1 | X1.144
+DESCRIPTION:Authors: Charlotte Dejean, Bénédicte Ménez, Pauline Bergsten, Hélène Bouquerel, Alexandre Gélabert, Léna Lecourt, Baptiste Debret, Clara Caurant, and Emmanuelle Gérard\nSession ID: EGU25-16724\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-16724
+CATEGORIES:Poster
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:a551cc46-afe7-4c62-8575-0d5c48bdf3af
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250428T165500
+DTEND;TZID=Europe/Vienna:20250428T170500
+SUMMARY:Modern aeolian accumulation and erosion processes at the Martian surface revealed by the Zhurong rover of Tianwen-1 
+Zhaopeng Chen, Gwénaël Caravaca, Matteo Loche, Baptiste Chide, Bernadett D. Pál, Jingjing Zhang, Agnès Cousin, Olivier Forni, Jeremie Lasue, Jianjun Liu, Xiangfeng Liu, Xin
+LOCATION:Room 1.34
+DESCRIPTION:Authors: Ren, William Rapin, Weiming Xu, Qing Zhang, Yizhong Zhang, Rong Shu, Ákos Kereszturi, Sylvestre Maurice, and Chunlai Li\nSession ID: EGU25-18467\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-18467
+CATEGORIES:Talk
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:968d6a0d-77c2-4de0-a9f5-5953dbb5c306
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250429T092500
+DTEND;TZID=Europe/Vienna:20250429T093500
+SUMMARY:Velocity influence on the friction and wear of a single-asperity lab-fault 
+LOCATION:Room G2
+DESCRIPTION:Authors: Adriane Clerc, Guilhem Mollon, Amandine Ferrieux, Lionel Lafarge, and Aurélien Saulot\nSession ID: EGU25-6563\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-6563
+CATEGORIES:Talk
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:c72a905a-85ad-4deb-a4ab-519cba972067
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250429T091000
+DTEND;TZID=Europe/Vienna:20250429T092000
+SUMMARY:Fractal Dimension Evolution in Dense Granular Flows: Insights from Rotary Shear Experiments 
+LOCATION:Room 1.15/16
+DESCRIPTION:Authors: Yi Ge, Wei Hu, and Yan Li\nSession ID: EGU25-1151\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-1151
+CATEGORIES:Talk
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:bdcfbe5c-b180-4df1-aa6a-a4bbbddba391
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250429T093000
+DTEND;TZID=Europe/Vienna:20250429T094000
+SUMMARY:Two-phase depth-resolved numerical model captures debris flows entraining water-saturated sediments 
+LOCATION:Room 1.15/16
+DESCRIPTION:Authors: Hervé Vicari, Quoc-Anh Tran, Mikkel Metzsch, and Johan Gaume\nSession ID: EGU25-4620\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-4620
+CATEGORIES:Talk
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:74d3fc68-0b46-4101-bc3f-453342021741
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250429T094000
+DTEND;TZID=Europe/Vienna:20250429T095000
+SUMMARY:Improved landslide runout prediction by integrating the pore pressure response to dilatancy 
+LOCATION:Room 1.15/16
+DESCRIPTION:Authors: Ye Chen, Maximillian Van Wyk de Vries, and Fawu Wang\nSession ID: EGU25-12359\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-12359
+CATEGORIES:Talk
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:22fcd31b-4167-4ad9-9a1b-28ecda870b26
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250429T104500
+DTEND;TZID=Europe/Vienna:20250429T123000
+SUMMARY:Flows Over Flexible Vegetation Canopies: Hydrodynamic Impact and Drag Modeling 
+LOCATION:Hall A | A.21
+DESCRIPTION:Authors: Louis Vallier, Frederic Moulin, and Ludovic Cassan\nSession ID: EGU25-18149\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-18149
+CATEGORIES:Poster
+COLOR:lightslategray
+END:VEVENT
+BEGIN:VEVENT
+UID:710bcf44-72fb-4939-8607-5d763414dd6f
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250429T140000
+DTEND;TZID=Europe/Vienna:20250429T154500
+SUMMARY:Evolution of the strain localization and shear-zone internal structure in the granular material: Insights from ring-shear experiments 
+LOCATION:Hall X3 | X3.25
+DESCRIPTION:Authors: Yangshuai Zheng, Wei Hu, Yan Li, Huaixiao Gou, and Yi Ge\nSession ID: EGU25-4033\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-4033
+CATEGORIES:Poster
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:b0e31cd2-9f1a-4e9d-b38b-2482498e1876
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250429T140000
+DTEND;TZID=Europe/Vienna:20250429T154500
+SUMMARY:Experimental Investigation of Particle Impacts Using Distributed Acoustic Sensing 
+LOCATION:Hall X3 | X3.26
+DESCRIPTION:Authors: Zheng Chen and Siming He\nSession ID: EGU25-16650\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-16650
+CATEGORIES:Poster
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:435db707-9dcb-458a-8b13-00f64ff381b8
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250429T190500
+DTEND;TZID=Europe/Vienna:20250429T192500
+SUMMARY:Anatomy and predictability of tipping points in the high-dimensional climate system  
+LOCATION:Room -2.33
+DESCRIPTION:Authors: Johannes Lohmann\nSession ID: EGU25-10709\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-10709
+CATEGORIES:Talk
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:02c67286-b77b-4cce-92a2-c899b8f3c531
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T085100
+DTEND;TZID=Europe/Vienna:20250430T090100
+SUMMARY:Unified flow rule of undeveloped and fully-developed dense granular flows down rough inclines 
+LOCATION:Room -2.93
+DESCRIPTION:Authors: Yanbin Wu, Thomas Pähtz, Zixiao Guo, Lu Jing, Zhiguo He, and Jinchuan Zhang\nSession ID: EGU25-9678\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-9678
+CATEGORIES:Talk
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:6088e1f8-91d6-42aa-9252-c6a9ee5f2742
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T090100
+DTEND;TZID=Europe/Vienna:20250430T091100
+SUMMARY:Submerged granular collapse: different cohesion strength and initial packing densities 
+LOCATION:Room -2.93
+DESCRIPTION:Authors: Rui Zhu, Zhiguo He, and Eckart Meiburg\nSession ID: EGU25-20382\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-20382
+CATEGORIES:Talk
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:50548afd-21df-4636-ab79-81ef4f5353a7
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T104600
+DTEND;TZID=Europe/Vienna:20250430T105600
+SUMMARY:A Continuum Framework for Modeling Frictional-Collisional Interactions in Bed-Load Transport: Insights from Discrete Element Simulations 
+LOCATION:Room -2.93
+DESCRIPTION:Authors: Julien Chauchat, Rémi Chassagne, and Cyrille Bonamy\nSession ID: EGU25-17798\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-17798
+CATEGORIES:Talk
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:1aa8e9d6-0df5-4c9b-b832-b6a8276fceab
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T113600
+DTEND;TZID=Europe/Vienna:20250430T114600
+SUMMARY:Finite-Size Effects in Geophysical Granular Flow from a Nonlocal Rheology Perspective 
+LOCATION:Room -2.93
+DESCRIPTION:Authors: Jiacheng Xia, Lu Jing, and Ming Peng\nSession ID: EGU25-7958\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-7958
+CATEGORIES:Talk
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:972c7c12-0906-4ca1-a1d1-84a30faa2bf2
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T141500
+DTEND;TZID=Europe/Vienna:20250430T142500
+SUMMARY:Present-day debris flows on Mars are driven by the sublimation of dry ice (CO2) 
+LOCATION:Room N2
+DESCRIPTION:Authors: Lonneke Roelofs, Susan Conway, Matthew Sylvest, Manish Patel, Jonathan Merrison, Jens Jacob Iversen, Jim McElwaine, Maarten Kleinhans, and Tjalling de Haas\nSession ID: EGU25-1643\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-1643
+CATEGORIES:Talk
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:9160de4d-0fc9-45f7-b335-29ba55f5f357
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T142500
+DTEND;TZID=Europe/Vienna:20250430T143500
+SUMMARY: Impacts of Plant Roots on Debris-Flow Bed Erosion in Laboratory Experiments 
+LOCATION:Room N2
+DESCRIPTION:Authors: Anna van den Broek, Dagmar Mennes, Maarten Kleinhans, Lonneke Roelofs, Jana Eichel, Daniel Draebing, and Tjalling de Haas\nSession ID: EGU25-2707\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-2707
+CATEGORIES:Talk
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:6109b662-ab6e-42cc-bae4-543f2eed4a00
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T140000
+DTEND;TZID=Europe/Vienna:20250430T154500
+SUMMARY:Kelvin-Helmholtz Instability Observations on Mercury’s magnetopause: MESSENGER Study 
+LOCATION:Hall X4 | X4.127
+DESCRIPTION:Authors: Ruotan Li, Weijie Sun, and Suiyan Fu\nSession ID: EGU25-16616\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-16616
+CATEGORIES:Poster
+COLOR:mediumpurple
+END:VEVENT
+BEGIN:VEVENT
+UID:5329b3e6-5729-417e-8005-26bb02625cf6
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T161500
+DTEND;TZID=Europe/Vienna:20250430T180000
+SUMMARY:Modeling Debris Flow Transitions: Experimental Validation and Field-Scale Application 
+LOCATION:Hall X3 | X3.119
+DESCRIPTION:Authors: Chieh-Ya Liao, Yi-Ling Tsai, and Chi-Yao Hung\nSession ID: EGU25-13548\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-13548
+CATEGORIES:Poster
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:8ad44c4e-2394-4405-94cb-a6bae729a512
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T164800
+DTEND;TZID=Europe/Vienna:20250430T165000
+SUMMARY:Effect of incision on river response to floods: Insights from flume experiments 
+LOCATION:Room 1.15/16
+DESCRIPTION:Authors: Richard Mason, Pauline Delorme, Brendan Murphy, Stuart McLelland, Edwin Baynes, Lina Polvi, Stephen Rice, and Daniel Parsons\nSession ID: EGU25-15572\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-15572
+CATEGORIES:Talk
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:948c956f-24fc-43c8-bfd6-ade7eba0e612
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T171000
+DTEND;TZID=Europe/Vienna:20250430T172000
+SUMMARY:Unique Multi-spacecraft constellation during active Kelvin-Helmholtz Instability 
+LOCATION:Room L1
+DESCRIPTION:Authors: Adriana Settino and Rumi Nakamura and the November 27, 2021 boundary event study team\nSession ID: EGU25-8853\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-8853
+CATEGORIES:Talk
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd74b00-22e0-4679-b06c-6954503718bc
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T094200
+DTEND;TZID=Europe/Vienna:20250501T095200
+SUMMARY:Effects of gravity in CO2-sublimation driven granular flows in laboratory experiments 
+LOCATION:Room -2.93
+DESCRIPTION:Authors: Sharon Diamant, Susan Conway, Lonneke Roelofs, Maarten Kleinhans, Matthew Sylvest, Zoe Emerland, Manish Patel, and Tjalling de Haas\nSession ID: EGU25-3595\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-3595
+CATEGORIES:Talk
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:e64ef0a4-7b7e-4571-a0a4-99916492b6f0
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T084500
+DTEND;TZID=Europe/Vienna:20250501T085500
+SUMMARY:Understanding the impact of sediment supply, base-level fall rate and bedrock strength on knickpoint dynamics in fluvial environments. 
+LOCATION:Room D3
+DESCRIPTION:Authors: William Norriss, Edwin Baynes, John Hillier, Dimitri Lague, and Philippe Steer\nSession ID: EGU25-6001\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-6001
+CATEGORIES:Talk
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:bda5d3c9-6d4e-42aa-b75b-bf5866716104
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T100500
+DTEND;TZID=Europe/Vienna:20250501T101500
+SUMMARY:Investigating the role of chaotic dynamics in shaping river channel patterns and morphologies: The Case of the Ankobra River, Ghana. 
+LOCATION:Room D3
+DESCRIPTION:Authors: Julia Quaicoe\nSession ID: EGU25-350\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-350
+CATEGORIES:Talk
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:3ef67027-1da1-4e5a-b326-c373d010fc89
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T094500
+DTEND;TZID=Europe/Vienna:20250501T095500
+SUMMARY:Highlighting the buoyancy effects on surface deformation above an inflating magma chamber from analogue experiments 
+LOCATION:Room K1
+DESCRIPTION:Authors: Alexandra Morand, Alison C. Rust, Alain Burgisser, and Juliet Biggs\nSession ID: EGU25-11951\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-11951
+CATEGORIES:Talk
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:190d07d4-3e5e-4045-8f9a-88a697702bb6
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T140500
+DTEND;TZID=Europe/Vienna:20250501T141500
+SUMMARY:Tracing stream flow in confluent rivers – a journey from chaos to order 
+LOCATION:Room D3
+DESCRIPTION:Authors: Erwin Zehe, Samuel Schroers, and Hubert Savenije\nSession ID: EGU25-20195\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-20195
+CATEGORIES:Talk
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:acd950b4-fda4-4c2b-97ad-d6f24d462285
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T144500
+DTEND;TZID=Europe/Vienna:20250501T145500
+SUMMARY:Dune formation in gradually widening channels as a morphodynamic process seeking equilibrium between flow and sediment transport: Insights from numerical
+studies 
+LOCATION:Room D3
+DESCRIPTION:Authors: Hung-Yi Lin and Fu-Chun Wu\nSession ID: EGU25-8484\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-8484
+CATEGORIES:Talk
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:85dabfde-f89b-4bef-8675-0f1a31f7a7fa
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T151500
+DTEND;TZID=Europe/Vienna:20250501T152500
+SUMMARY:Growth of a drainage network in the lab 
+LOCATION:Room D3
+DESCRIPTION:Authors: Céleste Romon, François Métivier, and Eric Lajeunesse\nSession ID: EGU25-8818\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-8818
+CATEGORIES:Talk
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:5f62fa71-d148-475e-b34e-ff6c815f4160
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T161500
+DTEND;TZID=Europe/Vienna:20250501T180000
+SUMMARY:Transport of microplastics driven by turbidity currents developing over bedforms  
+LOCATION:Hall A | A.103
+DESCRIPTION:Authors: teresa serra, Mirco Mancini, Jordi Colomer, Marianna Soler, and Luca Solari\nSession ID: EGU25-18069\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-18069
+CATEGORIES:Poster
+COLOR:lightslategray
+END:VEVENT
+BEGIN:VEVENT
+UID:2b915edb-6ca4-4ed8-a397-6b13752420fe
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T161500
+DTEND;TZID=Europe/Vienna:20250501T180000
+SUMMARY:Waterfall alteration of bedrock channel form in the San Gabriel Mountains 
+LOCATION:Hall X3 | X3.133
+DESCRIPTION:Authors: Sophie D. Rothman, Joel S. Scheingross, and Scott S. McCoy\nSession ID: EGU25-12017\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-12017
+CATEGORIES:Poster
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:765abc8f-325d-4899-b1bc-274cec6a5a7b
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T161500
+DTEND;TZID=Europe/Vienna:20250501T180000
+SUMMARY:Dynamic and Seismic Characteristics of Granular Flows under Different Flow Regimes: Insights from Laboratory Flume Experiments 
+LOCATION:Hall X3 | X3.9
+DESCRIPTION:Authors: Xinzhi Zhou, Yifei Cui, Hui Tang, Zhen Zhang, Lingling Ye, and Jens Turowski\nSession ID: EGU25-10610\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-10610
+CATEGORIES:Poster
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:4fda10b7-2c6d-43fb-9da7-741137f39519
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T161500
+DTEND;TZID=Europe/Vienna:20250501T180000
+SUMMARY:Effects of fine grains in suspension on fluid viscosity and debris flow mobility  
+LOCATION:Hall X3 | X3.10
+DESCRIPTION:Authors: Hannah Nichols, Alessandro Leonardi, and Elisabeth Bowman\nSession ID: EGU25-10820\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-10820
+CATEGORIES:Poster
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:8c6cc793-fe54-41b7-8fba-734b953558d0
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T161500
+DTEND;TZID=Europe/Vienna:20250501T180000
+SUMMARY:How does substrate roughness affect geophysical granular flows ? 
+LOCATION:Hall X3 | X3.11
+DESCRIPTION:Authors: Alexis Bougouin, Fabio Dioguardi, Giovanna Capparelli, Eugenio Nicotra, and Roberto Sulpizio\nSession ID: EGU25-11996\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-11996
+CATEGORIES:Poster
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:cb78d50c-6044-4351-9d8b-3c91d5005830
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T161500
+DTEND;TZID=Europe/Vienna:20250501T180000
+SUMMARY:Debris flow waves 
+LOCATION:Hall X3 | X3.13
+DESCRIPTION:Authors: Jamie Webb, Xiannan Meng, Chris Johnson, and Nico Gray\nSession ID: EGU25-12450\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-12450
+CATEGORIES:Poster
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:d70b99b9-8801-4beb-95dd-840bd6d36d53
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T094500
+DTEND;TZID=Europe/Vienna:20250502T095500
+SUMMARY:Aerodynamic and Impact ripple dynamics: The influence of grain size and wind velocity on morphology and sand flux. 
+LOCATION:Room G1
+DESCRIPTION:Authors: lior saban, Itzhak katra, Orencio Durán, Constantin Rein, Klaus Kroy, and Hezi Yizhaq\nSession ID: EGU25-10467\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-10467
+CATEGORIES:Talk
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:bdc36ad0-c540-4bd4-88bd-2cd4686b7e3c
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T104500
+DTEND;TZID=Europe/Vienna:20250502T123000
+SUMMARY:Periodic Bedrock Ridges in the Equatorial Region of Mars: Insights from a Global Study 
+LOCATION:Hall X2 | X2.30
+DESCRIPTION:Authors: Elena A. Favaro, Matthew R. Balme, Joseph D. McNeil, Peter Fawdon, Joel Davis, Peter M. Grindrod, Steven G. Banham, and Stephen R. Lewis\nSession ID: EGU25-18100\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-18100
+CATEGORIES:Poster
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:7b9a7bed-2fd8-404d-8f5f-2f4858b9fdae
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T104500
+DTEND;TZID=Europe/Vienna:20250502T123000
+SUMMARY:Decoding Mars' Aeolian Features: Mesoscale Models for Wind and Climate Analysis 
+LOCATION:Hall X2 | X2.31
+DESCRIPTION:Authors: Elena A. Favaro, Manish R. Patel, Kylash Rajendran, and James A. Holmes\nSession ID: EGU25-21389\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-21389
+CATEGORIES:Poster
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:1a839777-bd4e-4339-b911-a3862af6b498
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T104500
+DTEND;TZID=Europe/Vienna:20250502T123000
+SUMMARY:Local wind regime induced by giant linear dunes
+LOCATION:Hall X2 | X2.42
+DESCRIPTION:Authors: Cyril Gadal, Pauline Delorme, Clément Narteau, Giles F.S. Wiggs, Matthew Baddock, Joanna M. Nield, and Philippe Claudin\nSession ID: EGU25-6096\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-6096
+CATEGORIES:Poster
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:c818ab9f-b14a-4dbd-93df-34d360fce70f
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T112000
+DTEND;TZID=Europe/Vienna:20250502T113000
+SUMMARY:Shear instability of the ocean's diurnal warm layer 
+LOCATION:Room L3
+DESCRIPTION:Authors: Jeff Carpenter and Mariana Miracca-Lage\nSession ID: EGU25-17744\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-17744
+CATEGORIES:Talk
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:861e1512-d6f2-409a-9437-161ded8aaa7f
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T115000
+DTEND;TZID=Europe/Vienna:20250502T120000
+SUMMARY:Observation of symmetric instability at a bottom attached front 
+LOCATION:Room L3
+DESCRIPTION:Authors: Mareike Körner, Jesse Cusack, Jonathan Nash, Kipp Shearman, Fucent Hsu, Jennifer MacKinnon, Leif Thomas, Jinliang Liu, and John Taylor\nSession ID: EGU25-12530\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-12530
+CATEGORIES:Talk
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:73d73d08-3abd-4b2d-8714-cfe78f9758da
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T140000
+DTEND;TZID=Europe/Vienna:20250502T154500
+SUMMARY:The effects of sediment properties on the aeolian abrasion and surface characteristics of microplastics 
+LOCATION:Hall X5 | X5.26
+DESCRIPTION:Authors: Lucrecia Alvarez Barrantes, Joanna E Bullard, Sam Davis, Cheryl McKenna Neuman, Patrick O’Brien, Paul Roach, and Zhaoxia Zhou\nSession ID: EGU25-1526\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-1526
+CATEGORIES:Poster
+COLOR:mediumpurple
+END:VEVENT
+BEGIN:VEVENT
+UID:ab7f4d2d-64d2-4b15-9373-f82d57db927b
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T142000
+DTEND;TZID=Europe/Vienna:20250502T143000
+SUMMARY:Towards Understanding Drivers of Plastic Embrittlement and Fragmentation in Coastal Environments 
+LOCATION:Room 2.31
+DESCRIPTION:Authors: Astrid Delorme, Laurent Lebreton, Sarah-Jeanne Royer, Mael Arhant, Maelenn Le Gall, and Pierre-Yves Le Gac\nSession ID: EGU25-7830\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-7830
+CATEGORIES:Talk
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:4bcd6361-05ef-463f-b24c-10ae1aa06850
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T142500
+DTEND;TZID=Europe/Vienna:20250502T143500
+SUMMARY:Spontaneous emission of internal waves by a radiative instability 
+LOCATION:Room L3
+DESCRIPTION:Authors: Subhajit Kar, Roy Barkan, James C. McWilliams, and M. Jeroen Molemaker\nSession ID: EGU25-15215\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-15215
+CATEGORIES:Talk
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:a9a669dc-45e1-4730-bd7d-beffbd2c357d
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T142500
+DTEND;TZID=Europe/Vienna:20250502T143500
+SUMMARY:Lubricated soft granular shear explaining an origin of slow-slip phenomena's statistics: Experimental study using fault gouge analogue of spherical hydrogel
+particles 
+LOCATION:Room G2
+DESCRIPTION:Authors: Yuto Sasaki and Hiroaki Katsuragi\nSession ID: EGU25-327\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-327
+CATEGORIES:Talk
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:ce94aa97-9497-40fa-990a-b817a2387c69
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T171000
+DTEND;TZID=Europe/Vienna:20250502T172000
+SUMMARY:What are the main regional and temporal controls of the hydro-sedimentary response of European and US catchments during floods ? 
+LOCATION:Room 0.51
+DESCRIPTION:Authors: Schaff Aurélien, Roux Hélène, Cassan Ludovic, and Saadi Mohamed\nSession ID: EGU25-10075\nLink: https://meetingorganizer.copernicus.org/EGU25/EGU25-10075
+CATEGORIES:Talk
+COLOR:mediumpurple
+END:VEVENT
+BEGIN:VEVENT
+UID:b304f8ef-b48a-4ced-a236-9b28c3a00040
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T083000
+DTEND;TZID=Europe/Vienna:20250430T123000
+SUMMARY:[Session] GM2.7 – Orals: Measuring and modelling geomorphic processes across scales
+LOCATION:Room -2.93
+DESCRIPTION:Session ID: GM2.7\nLink: https://meetingorganizer.copernicus.org/EGU25/session/51761
+CATEGORIES:Session
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:75d8071f-4a1c-4150-a612-cdc11b211059
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T161500
+DTEND;TZID=Europe/Vienna:20250430T180000
+SUMMARY:[Session] GM2.7 – Posters on site: Measuring and modelling geomorphic processes across scales
+LOCATION:Hall X3
+DESCRIPTION:Session ID: GM2.7\nLink: https://meetingorganizer.copernicus.org/EGU25/session/51761
+CATEGORIES:Session
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:2cb70a87-341e-49b4-afe0-96b19511097e
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250428T140000
+DTEND;TZID=Europe/Vienna:20250428T154500
+SUMMARY:[Session] GM2.7 – Posters virtual: Measuring and modelling geomorphic processes across scales
+LOCATION:vPoster spot 2
+DESCRIPTION:Session ID: GM2.7\nLink: https://meetingorganizer.copernicus.org/EGU25/session/51761
+CATEGORIES:Session
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:09b9671f-9451-47a0-89f2-e31b78c4fc0e
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T083000
+DTEND;TZID=Europe/Vienna:20250430T123000
+SUMMARY:[Session] NH3.1 – Orals: Debris flows: advances in mechanics, monitoring, modelling and risk management
+LOCATION:Room N2
+DESCRIPTION:Session ID: NH3.1\nLink: https://meetingorganizer.copernicus.org/EGU25/session/52293
+CATEGORIES:Session
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:8698398a-04f3-48df-b82f-bc63dd134219
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T161500
+DTEND;TZID=Europe/Vienna:20250501T180000
+SUMMARY:[Session] NH3.1 – Posters on site: Debris flows: advances in mechanics, monitoring, modelling and risk management
+LOCATION:Hall X3
+DESCRIPTION:Session ID: NH3.1\nLink: https://meetingorganizer.copernicus.org/EGU25/session/52293
+CATEGORIES:Session
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:a47e8327-03c5-45af-87e8-c42d19b49059
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250428T140000
+DTEND;TZID=Europe/Vienna:20250428T154500
+SUMMARY:[Session] NH3.1 – Posters virtual: Debris flows: advances in mechanics, monitoring, modelling and risk management
+LOCATION:vPoster spot 3
+DESCRIPTION:Session ID: NH3.1\nLink: https://meetingorganizer.copernicus.org/EGU25/session/52293
+CATEGORIES:Session
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:7b959895-666b-4d99-a98a-39032eb70143
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T083000
+DTEND;TZID=Europe/Vienna:20250501T101500
+SUMMARY:[Session] NP6.5 – Orals: Gravity-driven density currents: from physical modelling to geophysical applications
+LOCATION:Room -2.32
+DESCRIPTION:Session ID: NP6.5\nLink: https://meetingorganizer.copernicus.org/EGU25/session/52512
+CATEGORIES:Session
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:65b298e1-d553-4672-94aa-94e4966f421b
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T104500
+DTEND;TZID=Europe/Vienna:20250502T123000
+SUMMARY:[Session] NP6.5 – Posters on site: Gravity-driven density currents: from physical modelling to geophysical applications
+LOCATION:Hall X4
+DESCRIPTION:Session ID: NP6.5\nLink: https://meetingorganizer.copernicus.org/EGU25/session/52512
+CATEGORIES:Session
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:5a5c9c90-05cd-450a-ba3e-92e669d31092
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T161500
+DTEND;TZID=Europe/Vienna:20250501T180000
+SUMMARY:[Session] NH3.1 – Posters on site: Debris flows: advances in mechanics, monitoring, modelling and risk management
+LOCATION:Room E1
+DESCRIPTION:Session ID: NH3.1\nLink: https://meetingorganizer.copernicus.org/EGU25/session/52293
+CATEGORIES:Session
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:6283c879-a2f4-4045-8ac1-423b952d5dcf
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T083000
+DTEND;TZID=Europe/Vienna:20250502T101500
+SUMMARY:[Session] CR5.2 – Orals: Snow and Avalanche Hazards
+LOCATION:Room L1
+DESCRIPTION:Session ID: CR5.2\nLink: https://meetingorganizer.copernicus.org/EGU25/session/CR5.2
+CATEGORIES:Session
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:34df7979-20e4-4695-8157-fb9fdc59a02b
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T140000
+DTEND;TZID=Europe/Vienna:20250502T154500
+SUMMARY:[Session] CR5.2 – Posters on site: Snow and Avalanche Hazards
+LOCATION:Hall X4
+DESCRIPTION:Session ID: CR5.2\nLink: https://meetingorganizer.copernicus.org/EGU25/session/CR5.2
+CATEGORIES:Session
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:c25fb84f-50cc-43e1-beb8-9325adc6d13d
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T083000
+DTEND;TZID=Europe/Vienna:20250502T101500
+SUMMARY:[Session] GM6.4 – Orals: Aeolian processes, landforms, and deposits
+LOCATION:Room G1
+DESCRIPTION:Session ID: GM6.4\nLink: https://meetingorganizer.copernicus.org/EGU25/session/GM6.4
+CATEGORIES:Session
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:013d936f-6376-4aa0-833b-30e1b0338cf3
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T104500
+DTEND;TZID=Europe/Vienna:20250502T123000
+SUMMARY:[Session] GM6.4 – Posters on site: Aeolian processes, landforms, and deposits
+LOCATION:Hall X2
+DESCRIPTION:Session ID: GM6.4\nLink: https://meetingorganizer.copernicus.org/EGU25/session/GM6.4
+CATEGORIES:Session
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:2b03163e-75e7-44ed-aab7-803d63a03a98
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250428T140000
+DTEND;TZID=Europe/Vienna:20250428T154500
+SUMMARY:SC 1.5 – Your guide to science diplomacy
+LOCATION:Room -2.82
+DESCRIPTION:Event ID: SC 1.5\nCo-organized by EOS4/GM12/OS5
+Convener: Lene Topp
+Co-conveners: Chloe Hill , João Bettencourt\nLink: https://meetingorganizer.copernicus.org/EGU25/SC1.5
+CATEGORIES:Short Course
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:de30c84f-9106-4808-8037-3fc0d3dfe178
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250428T140000
+DTEND;TZID=Europe/Vienna:20250428T154500
+SUMMARY:SC 3.19 – Julia in geoscience: hands-on introduction and simulations of ocean, atmosphere and ice
+LOCATION:Room -2.62
+DESCRIPTION:Event ID: SC 3.19\nCo-organized by AS6/ESSI3
+Convener: Mauro Werder 
+Co-conveners: Lazaro Alonso Silva, Simone Silvestri, Milan Klöwer, Ludovic Räss\nLink: https://meetingorganizer.copernicus.org/EGU25/SC3.19
+CATEGORIES:Short Course
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:8392cbc5-f416-49ab-971f-5116dab2c39c
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250428T190000
+DTEND;TZID=Europe/Vienna:20250428T200000
+SUMMARY:MAL9 – Champion(s) for Equality, Diversity and Inclusion Award Lecture by Claudia Jesus-Rydin
+LOCATION:Room G1
+DESCRIPTION:Event ID: MAL9\nConvener: Alberto Montanari
+Co-convener: Lisa Wingate
+Abstract\nLink: https://meetingorganizer.copernicus.org/EGU25/MAL9
+CATEGORIES:Medal & Award Lectures and Celebrations
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:423d9baa-f58b-4561-ab8f-5ef93700956f
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250429T083000
+DTEND;TZID=Europe/Vienna:20250429T101500
+SUMMARY:GDB8 – Publish or Perish in the Open Access Era: How to prioritize scientific quality over commercial interests?
+LOCATION:Room E1
+DESCRIPTION:Event ID: GDB8\nConvener: Eduardo Queiroz Alves
+Co-convener: Barbara Ervens 
+Programme\nLink: https://meetingorganizer.copernicus.org/EGU25/GDB8
+CATEGORIES:Great Debate
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:7666db8c-9571-4579-b7fa-2bb2eb282de3
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250429T104500
+DTEND;TZID=Europe/Vienna:20250429T123000
+SUMMARY:SC 2.1 – Surviving in Academia as a Parent
+LOCATION:Room -2.82
+DESCRIPTION:Event ID: SC 2.1\nCo-organized by GM12/OS5
+Convener: Johanna KerchECS
+Co-conveners: Rebekka Steffen , Gerald RaabECS, Bart Root, Katrin Löer\nLink: https://meetingorganizer.copernicus.org/EGU25/SC2.1
+CATEGORIES:Short Course
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:b048e5e0-b516-496c-9fd7-1492802fc4a4
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250429T140000
+DTEND;TZID=Europe/Vienna:20250429T154500
+SUMMARY:SC 3.9 – The inverse Butterfly effect: from chaos to FAIR (onsite only)
+LOCATION:Room 0.55
+DESCRIPTION:Event ID: SC 3.9\nCo-organized by ESSI3
+Convener: Alexander Wolodkin 
+Co-conveners: Anette Ganske, Andrea Lammert, Ivonne Anders\nLink: https://meetingorganizer.copernicus.org/EGU25/SC3.9
+CATEGORIES:Short Course
+COLOR:mediumpurple
+END:VEVENT
+BEGIN:VEVENT
+UID:ec1fac76-0db1-4e00-9799-19cd405ba9e4
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250429T161500
+DTEND;TZID=Europe/Vienna:20250429T180000
+SUMMARY:SC 1.6 – Science for Policy 101
+LOCATION:Room -2.82
+DESCRIPTION:Event ID: SC 1.6\nCo-organized by GD11/NH12
+Convener: Chloe Hill 
+Co-conveners: Ilias Grampas, Lene Topp\nLink: https://meetingorganizer.copernicus.org/EGU25/SC1.6
+CATEGORIES:Short Course
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:daee2ad3-0fcc-4deb-8da9-0ae0f8f00ce0
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250429T161500
+DTEND;TZID=Europe/Vienna:20250429T180000
+SUMMARY:SC 3.16 – Sustainable Research Software (onsite only)
+LOCATION:Room 0.55
+DESCRIPTION:Event ID: SC 3.16\nCo-organized by ESSI3/GD11/GM12
+Convener: Emmanuel Nyenah 
+Co-conveners: Robert ReineckeECS, Victoria Bauer\nLink: https://meetingorganizer.copernicus.org/EGU25/SC3.16
+CATEGORIES:Short Course
+COLOR:mediumpurple
+END:VEVENT
+BEGIN:VEVENT
+UID:200bed77-0169-40c4-943d-e7e6473b6518
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250429T190000
+DTEND;TZID=Europe/Vienna:20250429T200000
+SUMMARY:SC 2.10 – European Research Council (ERC) Funding Opportunities
+LOCATION:Room -2.82
+DESCRIPTION:Event ID: SC 2.10\nCo-organized by GM12/OS5
+Convener: David Gallego-Torres 
+Co-conveners: Claudia Jesus-Rydin, Eystein Jansen\nLink: https://meetingorganizer.copernicus.org/EGU25/SC2.10
+CATEGORIES:Short Course
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:ea7de32e-ca94-451e-8015-e1ab09c65f7f
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T104500
+DTEND;TZID=Europe/Vienna:20250430T123000
+SUMMARY:GDB5 – How to translate fundamental research into societal and policy impact
+LOCATION:Room E1
+DESCRIPTION:Event ID: GDB5\nConvener: David Gallego-Torres 
+Co-conveners: Chloe Hill, Peter van der Beek, Claudia Jesus-Rydin
+Programme\nLink: https://meetingorganizer.copernicus.org/EGU25/GDB5
+CATEGORIES:Great Debate
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:6dee3797-3c0b-49a5-b2ee-523436bb443c
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T083000
+DTEND;TZID=Europe/Vienna:20250430T123000
+SUMMARY:GM2.7 – Measuring and modelling geomorphic processes across scales
+LOCATION:Room -2.93
+DESCRIPTION:Event ID: GM2.7\nCo-organized by GI4/NP3
+Convener: Manousos Valyrakis 
+Co-conveners: Rui Miguel Ferreira, Lu JingECS, Xiuqi WangECS, Zhiguo He
+Orals\nLink: https://meetingorganizer.copernicus.org/EGU25/session/51761
+CATEGORIES:Other
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:5338615e-9914-4385-a242-5ae82b61a7fb
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250430T083000
+DTEND;TZID=Europe/Vienna:20250430T123000
+SUMMARY:GM2.7 – Measuring and modelling geomorphic processes across scales
+LOCATION:Room -2.93
+DESCRIPTION:Event ID: GM2.7\nCo-organized by GI4/NP3
+Convener: Manousos Valyrakis 
+Co-conveners: Rui Miguel Ferreira, Lu JingECS, Xiuqi WangECS, Zhiguo He
+Orals\nLink: https://meetingorganizer.copernicus.org/EGU25/session/51761
+CATEGORIES:Other
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:2482c75b-6ecf-47a9-97c8-8380f17d4d93
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T083000
+DTEND;TZID=Europe/Vienna:20250501T101500
+SUMMARY:NH3.1 – Debris flows: advances in mechanics, monitoring, modelling and risk management
+LOCATION:Room -2.82
+DESCRIPTION:Event ID: NH3.1\nConvener: Alessandro Leonardi 
+Co-conveners: Jacob HirschbergECS, Marcel Hürlimann, Shuai Li, Sara SaviECS
+Orals | Wed, 30 Apr, 08:30–12:30 (CEST), 14:00–17:55 (CEST)
+Room N2
+Posters on site | Attendance Thu, 01 May, 16:15–18:00 (CEST) | Display Thu, 01 May, 14:00–18:00
+Hall X3
+Posters virtual | Attendance Mon, 28 Apr, 14:00–15:45 (CEST) | Display Mon, 28 Apr, 08:30–18:00
+vPoster spot 3
+ 
+ 
+ 
+SC 2.11
+Elevate your Pitch: Developing Engaging Scientific Presentations 
+Co-organized by GM12/OS5
+Convener: Antara DasguptaECS 
+Co-conveners: Hannah Cloke, Hazel Gibson, Simon ClarkECS\nLink: https://meetingorganizer.copernicus.org/EGU25/session/52293
+CATEGORIES:Other
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:af248934-e19a-4b15-8427-d300cc953bcf
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T083000
+DTEND;TZID=Europe/Vienna:20250501T101500
+SUMMARY:SC 3.7 – DataViz: Visualise your data effectively and avoid common pitfalls
+LOCATION:Room -2.62
+DESCRIPTION:Event ID: SC 3.7\nCo-organized by EOS1/AS6/ESSI4/GM12/HS11
+Convener: Paola MazzoglioECS 
+Co-conveners: Edoardo MartiniECS, Roshanak TootoonchiECS, Epari Ritesh PatroECS, Xinyang FanECS\nLink: https://meetingorganizer.copernicus.org/EGU25/SC3.7
+CATEGORIES:Short Course
+COLOR:peru
+END:VEVENT
+BEGIN:VEVENT
+UID:39c81b81-1e14-4159-aaf6-18f81234ddee
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T083000
+DTEND;TZID=Europe/Vienna:20250501T101500
+SUMMARY:NP6.5 – Gravity-driven density currents: from physical modelling to geophysical applications
+LOCATION:Room -2.32
+DESCRIPTION:Event ID: NP6.5\nCo-organized by OS4
+Convener: Yvan Dossmann 
+Co-conveners: Gauthier RousseauECS , Claudia Adduce, Maria Eletta Negretti, Guillaume Carazzo
+Orals\nLink: https://meetingorganizer.copernicus.org/EGU25/session/52512
+CATEGORIES:Other
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:261792a2-b3a4-4b3f-8547-cee34f741524
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T161500
+DTEND;TZID=Europe/Vienna:20250501T180000
+SUMMARY:NH3.1 – Debris flows: advances in mechanics, monitoring, modelling and risk management
+LOCATION:Room E1
+DESCRIPTION:Event ID: NH3.1\nConvener: Alessandro Leonardi 
+Co-conveners: Jacob HirschbergECS, Marcel Hürlimann, Shuai Li, Sara SaviECS
+Orals | Wed, 30 Apr, 08:30–12:30 (CEST), 14:00–17:55 (CEST)
+Room N2
+ 
+
+Friday, 2 May 2025
+Posters on site | Attendance Thu, 01 May, 16:15–18:00 (CEST) | Display Thu, 01 May, 14:00–18:00
+Hall X3
+Posters virtual | Attendance Mon, 28 Apr, 14:00–15:45 (CEST) | Display Mon, 28 Apr, 08:30–18:00
+vPoster spot 3
+ 
+ 
+EGU25-10610 | ECS | Posters on site | NH3.1 
+Dynamic and Seismic Characteristics of Granular Flows under Different Flow Regimes: Insights from Laboratory Flume Experiments 
+Xinzhi Zhou, Yifei Cui, Hui Tang, Zhen Zhang, Lingling Ye, and Jens Turowski
+Thu, 01 May, 16:15–18:00 (CEST) 
+ Hall X3 | X3.9
+ 
+EGU25-10820 | ECS | Posters on site | NH3.1 
+Effects of fine grains in suspension on fluid viscosity and debris flow mobility  
+Hannah Nichols, Alessandro Leonardi, and Elisabeth Bowman
+Thu, 01 May, 16:15–18:00 (CEST) 
+ Hall X3 | X3.10
+ 
+EGU25-11996 | ECS | Posters on site | NH3.1 
+How does substrate roughness affect geophysical granular flows ? 
+Alexis Bougouin, Fabio Dioguardi, Giovanna Capparelli, Eugenio Nicotra, and Roberto Sulpizio
+Thu, 01 May, 16:15–18:00 (CEST) 
+ Hall X3 | X3.11
+ 
+EGU25-12450 | ECS | Posters on site | NH3.1 
+Debris flow waves 
+Jamie Webb, Xiannan Meng, Chris Johnson, and Nico Gray
+Thu, 01 May, 16:15–18:00 (CEST) 
+ Hall X3 | X3.13
+ 
+GDB7 
+Science and Activism – Compatible or Antithetical? 
+Convener: Caspar Hewett 
+Co-conveners: Gonzalo Olivares Cerpa, Jonathan Dick
+Programme\nLink: https://meetingorganizer.copernicus.org/EGU25/session/52293
+CATEGORIES:Other
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:c0de56f4-6bb2-4606-bed0-9de615f223d7
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T083000
+DTEND;TZID=Europe/Vienna:20250502T101500
+SUMMARY:CR5.2 – Snow and Avalanche Hazards
+LOCATION:Room L1
+DESCRIPTION:Event ID: CR5.2\nConvener: Cristina Pérez-Guillén 
+Co-conveners: Alec van Herwijnen, Michaela Teich, Ingrid Reiweger
+Orals\nLink: https://meetingorganizer.copernicus.org/EGU25/CR5.2
+CATEGORIES:Other
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:5a6180c0-ea5e-4717-8d55-e6d5eca53f34
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T083000
+DTEND;TZID=Europe/Vienna:20250502T101500
+SUMMARY:GM6.4 – Aeolian processes, landforms, and deposits
+LOCATION:Room G1
+DESCRIPTION:Event ID: GM6.4\nConvener: Melanie A. StammlerECS 
+Co-conveners: Pei ZhangECS, Daniel HölblingECS, Andreas Baas, Anu Kaakinen, David A. VazECS, Shuangwen Yi
+Orals\nLink: https://meetingorganizer.copernicus.org/EGU25/GM6.4
+CATEGORIES:Other
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:b9cc06f9-6167-4b89-9954-45a1839c47f7
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T083000
+DTEND;TZID=Europe/Vienna:20250502T101500
+SUMMARY:GM6.4 – Aeolian processes, landforms, and deposits
+LOCATION:Room G1
+DESCRIPTION:Event ID: GM6.4\nConvener: Melanie A. StammlerECS 
+Co-conveners: Pei ZhangECS, Daniel HölblingECS, Andreas Baas, Anu Kaakinen, David A. VazECS, Shuangwen Yi
+Orals\nLink: https://meetingorganizer.copernicus.org/EGU25/GM6.4
+CATEGORIES:Other
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:d95f6a20-ce6c-4068-b2fa-c4a7b5eef389
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250501T083000
+DTEND;TZID=Europe/Vienna:20250501T101500
+SUMMARY:NP6.5 – Gravity-driven density currents: from physical modelling to geophysical applications
+LOCATION:Room -2.32
+DESCRIPTION:Event ID: NP6.5\nCo-organized by OS4
+Convener: Yvan Dossmann 
+Co-conveners: Gauthier RousseauECS , Claudia Adduce, Maria Eletta Negretti, Guillaume Carazzo
+Orals\nLink: https://meetingorganizer.copernicus.org/EGU25/session/52512
+CATEGORIES:Other
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:88f5e167-4cd0-46b0-8e20-e9c6339c9f3b
+DTSTAMP:20250424T163840Z
+DTSTART;TZID=Europe/Vienna:20250502T083000
+DTEND;TZID=Europe/Vienna:20250502T101500
+SUMMARY:CR5.2 – Snow and Avalanche Hazards
+LOCATION:Room L1
+DESCRIPTION:Event ID: CR5.2\nConvener: Cristina Pérez-Guillén 
+Co-conveners: Alec van Herwijnen, Michaela Teich, Ingrid Reiweger
+Orals\nLink: https://meetingorganizer.copernicus.org/EGU25/CR5.2
+CATEGORIES:Other
+COLOR:indigo
+END:VEVENT
+END:VCALENDAR
