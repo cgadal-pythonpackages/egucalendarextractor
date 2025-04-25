@@ -9,7 +9,7 @@ st.markdown(
 )
 
 st.markdown(
-    "To download your personnal programme PDF file, got to [https://meetingorganizer.copernicus.org/EGU25/personal_programme](https://meetingorganizer.copernicus.org/EGU25/personal_programme), log in and click on the Print blue button after having selected events."
+    "To download your personal programme PDF file, got to [https://meetingorganizer.copernicus.org/EGU25/personal_programme](https://meetingorganizer.copernicus.org/EGU25/personal_programme), log in and click on the Print blue button after having selected events."
 )
 
 pdf_file = st.file_uploader(

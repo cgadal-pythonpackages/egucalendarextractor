@@ -137,25 +137,83 @@ def extract_session_blocks(text, link_map):
     return sessions
 
 
+def parse_fallback_blocks(text):
+    fallback_pattern = re.compile(
+        r"^(?P<title>[^\n]+)\n"
+        r"(?:(?P<organizers>Organized by[^\n]*?(?:\|[^\n]*)?)\n)?"
+        r"(?:Location: (?P<location>[^\n]+)\n)?"
+        r"[★\s]*"
+        r"(?P<start_day>Sun|Mon|Tue|Wed|Thu|Fri|Sat), (?P<start_date>\d{2} \w{3}), (?P<start_time>\d{2}:\d{2})"
+        r"(?:–(?:(?P<end_day>Sun|Mon|Tue|Wed|Thu|Fri|Sat), )?"
+        r"(?:(?P<end_date>\d{2} \w{3}), )?"
+        r"(?P<end_time>\d{2}:\d{2}))? CEST",
+        re.MULTILINE,
+    )
+
+    events = []
+    seen_titles = set()
+
+    for match in fallback_pattern.finditer(text):
+        gd = match.groupdict()
+        title = gd["title"].strip()
+
+        if title in seen_titles:
+            continue
+        seen_titles.add(title)
+
+        location = gd.get("location") or "TBD"
+        organizers = gd.get("organizers") or ""
+
+        start_dt = datetime.strptime(
+            f"{gd['start_date']} 2025 {gd['start_time']}", "%d %b %Y %H:%M"
+        )
+
+        if gd["end_date"]:
+            end_dt = datetime.strptime(
+                f"{gd['end_date']} 2025 {gd['end_time']}", "%d %b %Y %H:%M"
+            )
+        elif gd["end_time"]:
+            end_dt = datetime.strptime(
+                f"{gd['start_date']} 2025 {gd['end_time']}", "%d %b %Y %H:%M"
+            )
+        else:
+            end_dt = start_dt
+
+        events.append(
+            {
+                "uid": str(uuid.uuid4()),
+                "title": title,
+                "start": start_dt,
+                "end": end_dt,
+                "location": location.strip(),
+                "description": organizers.strip() + "\\nAuto-detected special entry.",
+                "category": "Special Event",
+            }
+        )
+
+    return events
+
+
 def extract_misc_events(text, link_map):
-    pattern = re.compile(
-        r"^([A-Z]{2,4}\s?\d+(?:\.\d+)?(?:[A-Z]?)?)\n"  # Event ID (e.g. SC 1.5, MAL9, GDB8)
+    misc_events = []
+    seen_titles = set()
+    ALL_MISC_PREFIXES = set()
+
+    # --- Pattern 1: Standard SC/MAL/GDB-style with ID ---
+    standard_pattern = re.compile(
+        r"^([A-Z]{2,4}\s?\d+(?:\.\d+)?(?:[A-Z]?)?)\n"  # Event ID
         r"(.*?)\n"  # Title
-        r"(.*?(?:Convener:.*?(?:\nCo-conveners?:.*?)?)?)?"  # Optional convener text (non-capturing)
+        r"(.*?(?:Convener:.*?(?:\nCo-conveners?:.*?)?)?)?"  # Optional convener
         r"[★|\s]*\s*(Mon|Tue|Wed|Thu|Fri),\s*(\d{2} \w{3}),\s*(\d{2}:\d{2})–(\d{2}:\d{2}) \(CEST\)\n"
         r"(Room.*?)\n",
         re.DOTALL | re.MULTILINE,
     )
 
-    ALL_MISC_PREFIXES = set()
-    misc_events = []
-    for match in pattern.finditer(text):
+    for match in standard_pattern.finditer(text):
         eid, title, conveners, day, date, start, end, room = match.groups()
-
         start_dt = datetime.strptime(f"{date} 2025 {start}", "%d %b %Y %H:%M")
         end_dt = datetime.strptime(f"{date} 2025 {end}", "%d %b %Y %H:%M")
 
-        # Get category
         prefix = re.match(r"[A-Z]+", eid.replace(" ", "")).group()
         ALL_MISC_PREFIXES.add(prefix)
         category = {
@@ -169,7 +227,6 @@ def extract_misc_events(text, link_map):
             "PC": "Press conferences",
         }.get(prefix, "Other")
 
-        # Get link (real if found, fallback if not)
         clean_id = eid.replace(" ", "")
         link = (
             link_map.get(eid)
@@ -197,8 +254,8 @@ def extract_misc_events(text, link_map):
                 "category": category,
             }
         )
-    #
-    print("✅ Unique prefixes found in misc events:", sorted(ALL_MISC_PREFIXES))
+
+    misc_events += parse_fallback_blocks(text)
     return misc_events
 
 
